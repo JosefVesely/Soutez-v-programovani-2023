@@ -10,4 +10,8 @@ Na řešení úloh máte 4 hodiny čistého času.
 
 Před zahájením soutěže vám pořadatel oznámí, kde najdete testovací soubory a kam máte ukládat vaše řešení.
 
+---
+
 ### Celé zadání: [```PGM_mládež_2022-23.pdf```](PGM_mládež_2022-23.pdf)
+
+***Umístil jsem se na 5. místě***
